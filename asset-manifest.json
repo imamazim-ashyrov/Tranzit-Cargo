@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Tranzit-Cargo/static/css/main.83935991.css",
+    "main.js": "/Tranzit-Cargo/static/js/main.4119a7ec.js",
+    "static/media/Train2.png": "/Tranzit-Cargo/static/media/Train2.b8e0e5a38ef63a9e7a87.png",
+    "static/media/Plane2.png": "/Tranzit-Cargo/static/media/Plane2.82df40ed35b6d5eacfbe.png",
+    "static/media/CargoTruck.png": "/Tranzit-Cargo/static/media/CargoTruck.7904e797638b17e1b1b9.png",
+    "static/media/Train.png": "/Tranzit-Cargo/static/media/Train.c3b1512378f3180cfe8d.png",
+    "static/media/CargoMan.png": "/Tranzit-Cargo/static/media/CargoMan.3796d60d5aacc64caeda.png",
+    "static/media/RightBanner.png": "/Tranzit-Cargo/static/media/RightBanner.9ddc48cb0d3467ba2463.png",
+    "static/media/Logotip.svg": "/Tranzit-Cargo/static/media/Logotip.3f59b8ccca4aaa43753988a96ade3694.svg",
+    "static/media/Car2.png": "/Tranzit-Cargo/static/media/Car2.bf69667e29ab163286b0.png",
+    "static/media/Car.png": "/Tranzit-Cargo/static/media/Car.480df5ab0e54a26d1e58.png",
+    "static/media/BannerTrain.png": "/Tranzit-Cargo/static/media/BannerTrain.0772c7b330a2d5ba65bf.png",
+    "static/media/Plane.png": "/Tranzit-Cargo/static/media/Plane.2b67313014792fc7b724.png",
+    "static/media/BannerPlane.png": "/Tranzit-Cargo/static/media/BannerPlane.f936f1248ab484dc2eb1.png",
+    "static/media/LeftBanner.png": "/Tranzit-Cargo/static/media/LeftBanner.7458b53622135e6cd858.png",
+    "static/media/BannerTruck.png": "/Tranzit-Cargo/static/media/BannerTruck.0c88549ba869c1744417.png",
+    "static/media/truck.svg": "/Tranzit-Cargo/static/media/truck.4608af8e73280341407925fa8de913b0.svg",
+    "static/media/Vector (1).svg": "/Tranzit-Cargo/static/media/Vector (1).1ee8948a306c443317ea39e5806de5e8.svg",
+    "static/media/train.svg": "/Tranzit-Cargo/static/media/train.22f6b8e012c9f18eeb576b721727c04a.svg",
+    "static/media/slick.svg": "/Tranzit-Cargo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Tranzit-Cargo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/Vector.svg": "/Tranzit-Cargo/static/media/Vector.001b87b2cef4440a3224cfd8e88ec422.svg",
+    "static/media/slick.ttf": "/Tranzit-Cargo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Tranzit-Cargo/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/plane.svg": "/Tranzit-Cargo/static/media/plane.862162c41ed0c04bd2a62130e3345401.svg",
+    "index.html": "/Tranzit-Cargo/index.html",
+    "static/media/Vector (3).svg": "/Tranzit-Cargo/static/media/Vector (3).e6a838eaecae21e261878f6931fcfc20.svg",
+    "main.83935991.css.map": "/Tranzit-Cargo/static/css/main.83935991.css.map",
+    "main.4119a7ec.js.map": "/Tranzit-Cargo/static/js/main.4119a7ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83935991.css",
+    "static/js/main.4119a7ec.js"
+  ]
+}
